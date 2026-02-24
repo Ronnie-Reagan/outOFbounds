@@ -1,2 +1,4 @@
 serpent.lua
 serpent-0.30
+dist/*
+dist
